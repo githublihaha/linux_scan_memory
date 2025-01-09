@@ -9,3 +9,6 @@
 + 按内存段权限过滤，跳过不可读区域
 + 避免不必要的十六进制与十进制反复转换
 + 如果在本目录下存在busybox，并且制定了--busybox，则使用busybox中的命令，针对系统命令被替换了的场景。但是busybox中的命令的参数支持较少，显示效果不如系统自带的好
+
+## 参考
+https://github.com/Just-Hack-For-Fun/Linux-INCIDENT-RESPONSE-COOKBOOK/releases/tag/v1.9
